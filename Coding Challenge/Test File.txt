@@ -1,0 +1,8 @@
+Display each occurrence of the word in a grid on the UI and include the word before and after and the line number indicated by Carriage Return and Line Feed.
+If there is not a word before within the sentence indicate NA. If there is not a word after within the sentence indicate NA.
+Count the number of times the word occurs in the file.
+Count the number of words used in the file.
+Give a percentage of the word selected vs. the overall word count.
+Write your code so that it is easy for one of your peers to extend the code base based on good coding practices and documentation.
+Use of Object Oriented Principles, such as interfaces and common design patterns.
+Submission of a compiling and fully working solution.
